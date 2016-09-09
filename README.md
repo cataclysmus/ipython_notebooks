@@ -8,4 +8,4 @@ The `requirements.txt` file should list all Python libraries that your notebooks
 pip install -r requirements.txt
 ```
 
-Note that many scientific Python libraries (e.g. `numpy`, `scipy`, `sklearn`, etc.) are included already because the image for Binder is built on Anaconda.
+Run it from mybinder.org [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cataclysmus/misc_game)
