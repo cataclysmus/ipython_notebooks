@@ -9,4 +9,4 @@ pip install -r requirements.txt
 ```
 
 Run it from mybinder.org 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cataclysmus/misc_game)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cataclysmus/ipython_notebooks)
